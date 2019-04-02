@@ -71,6 +71,13 @@ footer{
 	letter-spacing: .08em;
 	font-weight:500;
 }
+li{
+	color: blue;
+	text-align: center;
+}
+a{
+	color: blue;
+}
 .copyright{
 	font-family: Raleway;
 	float: left;
